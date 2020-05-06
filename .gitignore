@@ -3,4 +3,6 @@
 .DS_Store
 logs/
 node_modules/
-**/node_modules/
+**/node_modules/  
+/backend/node_module
+/frontend/node_module
